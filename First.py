@@ -8,3 +8,6 @@ if a>b:
     print(a)
 else:
     print(b)
+num = [a,b]
+num.sort()
+print(num[-1])
