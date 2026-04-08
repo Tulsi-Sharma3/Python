@@ -3,3 +3,4 @@ print(45+45)
 a=5
 b=4
 print(max(a,b))
+print(a if a>b else b)
