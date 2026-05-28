@@ -1,4 +1,4 @@
 str = "Tulsi"
-# a=str(1,3)
-# print(a)
 print(len(str))
+ch = str[-3,-2]
+print(ch)
