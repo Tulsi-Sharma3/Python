@@ -14,5 +14,15 @@
 # for i in seq:
 #     print(i)
 
-for i in range(2,10):
-    print(i)
+#Printing from 2 to 10
+# for i in range(2,10):
+#     print(i)
+
+#printing 
+# for i in range (2,10,2):
+#     print(i)
+
+#Multiplication table for n
+n = int(input("enter no. "))
+for i in range(1,10):
+    print(n*i)
