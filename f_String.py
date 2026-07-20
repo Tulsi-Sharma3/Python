@@ -16,7 +16,7 @@ print(letter.format(country,name))
 name = input("enter name : ")
 country = input("enter coutry : ")
 print(f" hey i am {name} and my country is {country}")
-print(f" hey i am {{name}} and my country is {{country}}")
+print(f" hey i am {{name}} and my country is {{country}}")  #as it is printing {name} {country} -> literals
 
 # 4.
 dec = float(input("enter decimal values"))
